@@ -1,2 +1,2 @@
 # Data-Analysis
-In this repository, all the data analysis projects mainly from kaaggle going to be uploaded
+In this repository, all the data analysis projects mainly from kaggle going to be uploaded
